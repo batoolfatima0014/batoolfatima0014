@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **batoolfatima0014/batoolfatima0014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Batool Fatima 👋
+
+💻 PHP & Frontend Web Developer  
+🎯 I build admin panels, dashboards, and web applications  
+🛠️ Tech Stack: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL  
+📌 Currently working on PHP-based frontend & admin projects  
+
+### 🔥 Projects
+- **Audifyx – PHP + Frontend Project**  
+  🔗 https://github.com/batoolfatima0014/audifyx-project-frontend-php
+
+### 📫 Contact
+- GitHub: https://github.com/batoolfatima0014
